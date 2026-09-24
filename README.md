@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. I am a first year student at Bilkent University and my major is Computer Science. I am currently learning Java.
 
 <!--
 **brknkaya06/brknkaya06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
